@@ -1,0 +1,7 @@
+C:\Users\Andris\source\repos\Czipa_Andras_B9UBKB\Czipa_Andras_B9UBKB\bin\Debug\Czipa_Andras_B9UBKB.exe.config
+C:\Users\Andris\source\repos\Czipa_Andras_B9UBKB\Czipa_Andras_B9UBKB\bin\Debug\Czipa_Andras_B9UBKB.exe
+C:\Users\Andris\source\repos\Czipa_Andras_B9UBKB\Czipa_Andras_B9UBKB\bin\Debug\Czipa_Andras_B9UBKB.pdb
+C:\Users\Andris\source\repos\Czipa_Andras_B9UBKB\Czipa_Andras_B9UBKB\obj\Debug\Czipa_Andras_B9UBKB.csproj.AssemblyReference.cache
+C:\Users\Andris\source\repos\Czipa_Andras_B9UBKB\Czipa_Andras_B9UBKB\obj\Debug\Czipa_Andras_B9UBKB.csproj.CoreCompileInputs.cache
+C:\Users\Andris\source\repos\Czipa_Andras_B9UBKB\Czipa_Andras_B9UBKB\obj\Debug\Czipa_Andras_B9UBKB.exe
+C:\Users\Andris\source\repos\Czipa_Andras_B9UBKB\Czipa_Andras_B9UBKB\obj\Debug\Czipa_Andras_B9UBKB.pdb
